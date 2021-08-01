@@ -1,4 +1,4 @@
-# core
+# spring study
 https://github.com/DevelopJKong/springStudy.git
 
 spring 스터디를 기록하는 github 입니다
